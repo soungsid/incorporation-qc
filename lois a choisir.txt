@@ -1,0 +1,27 @@
+ALBERTA : Business Corporations Act, RSA 2000, c. B-9	ALBERTA : Business Corporations Act, RSA 2000, c. B-9
+CANADA : Loi sur les banques et les opérations bancaires, L.C. 1991, c.46	CANADA : Loi sur les banques et les opérations bancaires, L.C. 1991, c.46
+CANADA: Loi canadienne sur les sociétés par actions, L.R.C. (1985), c. C-44	CANADA: Loi canadienne sur les sociétés par actions, L.R.C. (1985), c. C-44
+CANADA : Loi sur les Corporations canadiennes, Partie 1, S.R.C. 1970, c. C-32	CANADA : Loi sur les Corporations canadiennes, Partie 1, S.R.C. 1970, c. C-32
+CANADA : Loi sur les sociétés d'assurances, L.C. 1991, c. 47	CANADA : Loi sur les sociétés d'assurances, L.C. 1991, c. 47
+CANADA : Loi sur les sociétés de fiducie et de prêt, L.R.C.,1991,CH.45	CANADA : Loi sur les sociétés de fiducie et de prêt, L.R.C.,1991,CH.45
+COLOMBIE-BRITANNIQUE : Business Corporations Act, S.B.C. 2002, c. 57	COLOMBIE-BRITANNIQUE : Business Corporations Act, S.B.C. 2002, c. 57
+ÎLE-DU-PRINCE-ÉDOUARD : Business Corporations Act, RSPEI 1988, Chapter B-6.01	ÎLE-DU-PRINCE-ÉDOUARD : Business Corporations Act, RSPEI 1988, Chapter B-6.01
+MANITOBA : Loi sur les corporations, C.P.L.M. c. C225	MANITOBA : Loi sur les corporations, C.P.L.M. c. C225
+NOUVEAU-BRUNSWICK : Loi sur les sociétés par actions, L.N.B. 1981, c. B-9.1	NOUVEAU-BRUNSWICK : Loi sur les sociétés par actions, L.N.B. 1981, c. B-9.1
+NOUVELLE-ÉCOSSE : Companies Act, R.S.N.S. 1989, c. 81	NOUVELLE-ÉCOSSE : Companies Act, R.S.N.S. 1989, c. 81
+NUNAVUT : Loi sur les sociétés par actions, L.T.N.-O. (Nu.) 1996, c. 19	NUNAVUT : Loi sur les sociétés par actions, L.T.N.-O. (Nu.) 1996, c. 19
+ONTARIO : Loi sur les sociétés par actions, L.R.O. 1990, c. B.16	ONTARIO : Loi sur les sociétés par actions, L.R.O. 1990, c. B.16
+QUÉBEC : Loi sociétés de développement de l'entreprise québécoise (RLRQ, C. S-28)	QUÉBEC : Loi sociétés de développement de l'entreprise québécoise (RLRQ, C. S-28)
+QUÉBEC : Loi sur les assureurs (RLRQ, chapitre A-32.1)	QUÉBEC : Loi sur les assureurs (RLRQ, chapitre A-32.1)
+QUÉBEC : Loi sur les compagnies de fidéicommis (RLRQ, C. C-41)	QUÉBEC : Loi sur les compagnies de fidéicommis (RLRQ, C. C-41)
+QUÉBEC : Loi sur les compagnies de flottage (RLRQ, C. C-42)	QUÉBEC : Loi sur les compagnies de flottage (RLRQ, C. C-42)
+QUÉBEC : Loi sur les compagnies de gaz, d'eau et d'électricité (RLRQ, C. C-44)	QUÉBEC : Loi sur les compagnies de gaz, d'eau et d'électricité (RLRQ, C. C-44)
+QUÉBEC : Loi sur les compagnies de télégraphe et de téléphone (RLRQ, C. C-45)	QUÉBEC : Loi sur les compagnies de télégraphe et de téléphone (RLRQ, C. C-45)
+QUÉBEC : Loi sur les compagnies minières (RLRQ, C. C-47)	QUÉBEC : Loi sur les compagnies minières (RLRQ, C. C-47)
+QUÉBEC : Loi sur les compagnies partie 1A, RLRQ, C. C-38	QUÉBEC : Loi sur les compagnies partie 1A, RLRQ, C. C-38
+QUÉBEC : Loi sur les compagnies, Partie 1 (RLRQ, C. C-38)	QUÉBEC : Loi sur les compagnies, Partie 1 (RLRQ, C. C-38)
+QUÉBEC : Loi sur les sociétés de fiducie et les sociétés d'épargne (RLRQ, C. S-29.01)	QUÉBEC : Loi sur les sociétés de fiducie et les sociétés d'épargne (RLRQ, C. S-29.01)
+QUÉBEC : Loi sur les sociétés d'entraide économique (RLRQ, C. S-25.1)	QUÉBEC : Loi sur les sociétés d'entraide économique (RLRQ, C. S-25.1)
+QUÉBEC : Loi sur les sociétés d'exploration minière (RLRQ, C. S-26)	QUÉBEC : Loi sur les sociétés d'exploration minière (RLRQ, C. S-26)
+QUÉBEC : Loi sur les sociétés par actions (RLRQ, C. S-31.1)	QUÉBEC : Loi sur les sociétés par actions (RLRQ, C. S-31.1)
+QUÉBEC : Loi sur les syndicats d'élevage (RLRQ, C. S-39)	QUÉBEC : Loi sur les syndicats d'élevage (RLRQ, C. S-39)
